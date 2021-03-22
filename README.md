@@ -31,7 +31,7 @@ Before replacing the ninth grade math and reading scores with NaN at Thomas High
 
 ![School Summary before changes](Resources/school_summary_before.PNG)
 
-Before replacing the ninth grade math and reading scores at Thomas High School with NaN, the school summary is shown in the picture below:
+After replacing the ninth grade math and reading scores at Thomas High School with NaN, the school summary is shown in the picture below:
 
 ![School Summary after changes](Resources/school_summary_after.PNG)
 
